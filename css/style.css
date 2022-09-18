@@ -113,7 +113,7 @@ a:visited{color:#f2f2f7}
 .bolded { font-weight: bold; }
 
 .blog_head{
-	background-image: url("../images/books.jpg");
+	background-image: url("../images/books_bg.jpg");
 	margin-top: 10px;
 	background-size: cover;
 	background-position: center;
@@ -133,7 +133,7 @@ a:visited{color:#f2f2f7}
 	border-style:solid;
 }
 .blog_body:hover{
-	background-image: url("../images/plk.png");
+	background-image: url("../images/polka_dots_bg.png");
 	color: whitesmoke
 }
 .caption {
