@@ -5,7 +5,7 @@ body{
 	font-size:150%;
 	background-color: rgb(240, 248, 255);
 	font-family: 'Roboto', sans-serif;
-	background-image: url("../images/bg_blogs.webp");
+	/* background-image: url("../images/bg_blogs.webp"); */
 
 	
 }
@@ -587,4 +587,35 @@ position: relative;
 		animation:none;
 	}
 
+}
+.myblogdiv{
+	color: gray;
+	margin-top: 120px;
+	width: 70vw;
+	margin-left: auto;
+	margin-right: auto;
+}
+.myblogdiv h2{
+	color: black;
+}
+
+.myblogdiv a{
+	color: black;
+	text-decoration: underline;
+	
+}
+.myblogdiv a:hover{
+	text-shadow: 1px 1px 5px gray;
+}
+.read-more a{
+	border:2px solid black;
+	border-radius: 3px;
+}
+
+.read-more a:hover{
+	box-shadow: 10px 10px 5px gray;
+}
+.blog_head_caption{
+	margin-top: 40px;
+	margin-bottom: 40px;
 }
